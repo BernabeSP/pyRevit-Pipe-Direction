@@ -1,4 +1,4 @@
-# PipeDirection Orbital
+# PipeDirection Selector
 
 A pyRevit tool designed to create a temporary 3D directional guide for create pipes in Autodesk Revit.
 
