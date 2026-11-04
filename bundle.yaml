@@ -1,0 +1,19 @@
+title: PipeDirection Orbital
+
+author: Ing.Silvia Paola Pinto Bernabé
+
+tooltip: |
+  Create a 3D orbital guide to define pipe extension directions.
+
+  Features:
+  • Select an existing pipe and its endpoint.
+  • Generate a temporary 3D directional guide.
+  • Display three directional planes with different colors.
+  • Select radial lines to define the new pipe direction.
+  • Automatically create a new pipe segment.
+  • Connect the new segment using an elbow fitting.
+  • Preserve the original pipe system type, pipe type and diameter.
+
+help_url: https://github.com/BernabeSP
+
+context: doc-project
