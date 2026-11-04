@@ -58,5 +58,5 @@ The tool generates an orbital guide around a selected pipe endpoint, allowing us
 ## Demo
 
 The following example demonstrates how to use the 3D orbital guide to select a pipe direction and create a connected pipe segment within a Revit project.
-![Pipe Direction Demo](PipeDirection_Example01.gif)
+![Pipe Direction Demo](Example/PipeDirection_Example01.gif)
 
