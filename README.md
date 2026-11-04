@@ -1,6 +1,6 @@
 # PipeDirection Orbital
 
-A pyRevit tool designed to create a temporary 3D directional guide for extending existing pipes in Autodesk Revit.
+A pyRevit tool designed to create a temporary 3D directional guide for create pipes in Autodesk Revit.
 
 The tool generates an orbital guide around a selected pipe endpoint, allowing users to choose the desired direction for a new pipe segment and automatically connect it using an elbow fitting.
 
